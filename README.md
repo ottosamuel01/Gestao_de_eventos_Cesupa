@@ -2,7 +2,7 @@
 
 Descrição curta do projeto.
 
-## <span style="color: green">Recursos Principais</span>
+## <div style="color: green">Recursos Principais</div>
 
 - Adicione eventos com informações detalhadas.
 - Liste todos os eventos registrados.
@@ -19,7 +19,7 @@ Descrição curta do projeto.
 
 1. Clone este repositório para o seu computador.
 2. Abra o projeto na sua IDE Java.
-3. Coloque o nome de usuario do postgresql, senha e o nome do banco de dados
+3. Coloque o nome de usuario do postgresql, senha e o nome do banco de dados dentro da conexão do java e postgresql
 4. Execute a classe `EventosCesupaGUI.java` para iniciar o programa.
 
 ## Tecnologias usadas
