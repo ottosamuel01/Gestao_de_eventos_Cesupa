@@ -23,7 +23,7 @@ Descrição curta do projeto.
 
 ## Capturas de Tela
 
-![Tela de Adicionar Evento](screenshots/adicionar-evento.png)
+![Tela de Adicionar Evento]([screenshots/adicionar-evento.png](https://icons8.com.br/icon/KZHjwwenS7oK/banco-de-dados))
 
 ![Tela de Listar Eventos](screenshots/listar-eventos.png)
 
