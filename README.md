@@ -2,7 +2,7 @@
 
 Descrição curta do projeto.
 
-## <div style="color: green">Recursos Principais</div>
+## <div style="color: #6f2cf4">Recursos Principais</div>
 
 - Adicione eventos com informações detalhadas.
 - Liste todos os eventos registrados.
