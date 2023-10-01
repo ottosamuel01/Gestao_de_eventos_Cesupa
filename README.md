@@ -2,7 +2,7 @@
 
 Descrição curta do projeto.
 
-## Recursos Principais
+## <span style="color: green">Recursos Principais</span>
 
 - Adicione eventos com informações detalhadas.
 - Liste todos os eventos registrados.
@@ -13,23 +13,19 @@ Descrição curta do projeto.
 ## Pré-requisitos
 
 - Java 8 ou superior instalado.
-- IDE Java para desenvolvimento (ex: Eclipse, IntelliJ, etc.).
+- IDE Java para desenvolvimento (IntelliJ).
 
 ## Como Executar o Projeto
 
 1. Clone este repositório para o seu computador.
 2. Abra o projeto na sua IDE Java.
-3. Execute a classe `EventosCesupaGUI.java` para iniciar o programa.
+3. Coloque o nome de usuario do postgresql, senha e o nome do banco de dados
+4. Execute a classe `EventosCesupaGUI.java` para iniciar o programa.
 
 ## Tecnologias usadas
 <img width= '70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img width= '70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img width= '70' height='70' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg" />
 
-## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
----
-
-Feito com ❤️ por [Otto Samuel Monteiro Rego](https://github.com/ottosamuel01)
+Feito por [Otto Samuel Monteiro Rego](https://github.com/ottosamuel01)
