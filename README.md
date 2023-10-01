@@ -21,19 +21,8 @@ Descrição curta do projeto.
 2. Abra o projeto na sua IDE Java.
 3. Execute a classe `EventosCesupaGUI.java` para iniciar o programa.
 
-## Capturas de Tela
-
-![Tela de Adicionar Evento]([screenshots/adicionar-evento.png](https://icons8.com.br/icon/KZHjwwenS7oK/banco-de-dados))
-
-![Tela de Listar Eventos](screenshots/listar-eventos.png)
-
-![Tela de Atualizar Evento](screenshots/atualizar-evento.png)
-
-![Tela de Excluir Evento](screenshots/excluir-evento.png)
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar um pull request.
+## Tecnologias usadas
+<img width= '50' height='50' src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />" />
 
 ## Licença
 
