@@ -1,7 +1,5 @@
 # Sistema de Gestão de Eventos
 
-![Logo do Projeto](link-para-a-imagem-do-logo.png)
-
 Descrição curta do projeto.
 
 ## Recursos Principais
@@ -43,4 +41,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 
-Feito com ❤️ por [Seu Nome](link-para-o-seu-perfil-do-GitHub)
+Feito com ❤️ por [Otto Samuel Monteiro Rego](https://github.com/ottosamuel01)
